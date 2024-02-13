@@ -1,4 +1,4 @@
-# 2-1-0-asssignment: Flexbox Froggy
+# 2-1-0-assignment: Flexbox Froggy
 
 > **TODO: @Instructor -** Fork this repo and update the canvas link for the assignment. Delete this sections before distributing.
 
